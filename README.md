@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="." alt="Banner" width="800"/>
+  <img src="./gitBanner.png" alt="Banner" width="800"/>
 </p>
 <h1 align="center">Hi 👋, I'm Nihal Laskar</h1>
 <h3 align="center">A passionate frontend and backhand developer from Bangladesh</h3>
