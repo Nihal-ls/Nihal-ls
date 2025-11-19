@@ -37,7 +37,7 @@ Let’s build something amazing! ✨
 <a href="https://fb.com/nihal laskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nihal laskar" height="30" width="40" /></a>
 </p>
 
-     Good At:English and Bangla
+     FLUENT LANGUAGES :English and Bangla
 
 - 📫 How to reach me:
 -
